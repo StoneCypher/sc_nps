@@ -137,3 +137,10 @@ detractor
 ```
 
 And that's the best I can do.  If you need more, [try this weird marketroid explainomercial](http://www.netpromotersystem.com/about/measuring-your-net-promoter-score.aspx).  It's actually way more detailed and straightforward than the Wikipedia article is.
+
+
+
+Polemic :neckbeard:
+-------------------
+
+`htstub` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
