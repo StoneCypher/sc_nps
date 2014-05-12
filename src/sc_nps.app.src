@@ -1,7 +1,7 @@
 %% -*- mode: erlang -*-
-{application, example_project,
+{application, sc_nps,
  [
-  {description, "Example Concrete generator project"},
+  {description, "sc_nps is a net promoter score implementation for Erlang"},
   {vsn, "0.0.1"},
   {registered, []},
   {applications, [
