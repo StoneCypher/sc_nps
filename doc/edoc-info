@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,example_project}.
+{packages,[]}.
+{modules,[sc_nps,sc_nps_tests]}.

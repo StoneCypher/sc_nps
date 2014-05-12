@@ -1,0 +1,10 @@
+ebin/*
+*.beam
+deps/*
+rel/example_project
+.concrete/DEV_MODE
+*.plt
+.eunit
+*.o
+erl_crash.dump
+.rebar
