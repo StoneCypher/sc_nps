@@ -31,7 +31,7 @@ rank(10)                                   -> promoter.
 score(List) ->
 
     Total     = length(List),
-    Ranked    = sc:histograph([ rank(L) || L <- List]),
+    Ranked    = sc_list:histograph([ rank(L) || L <- List]),
     [D, _, P] = [ (proplists:get_value(Key, Ranked, 0) / Total) * 100 || Key <- [detractor, passive, promoter] ],
 
     P - D.
